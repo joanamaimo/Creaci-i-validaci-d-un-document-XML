@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recaudacion_peliculas SYSTEM "recaudacion_peliculas.dtd">
+<recaudacion_peliculas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="recaudacion_peliculas.xsd">
+  <pelicula id="1" any="2009">
+    <titulo>Avatar</titulo>
+	<distribuidora>20th Century Fox</distribuidora>
+	<any_estreno>2009</any_estreno>
+	<director>James Cameron</director>
+	<recaudaciones>
+		<presupuesto>237000000</presupuesto>
+		<taquilla_EEUU>760507625</taquilla_EEUU>
+		<taquilla_fuera_EEUU>2027457462</taquilla_fuera_EEUU>
+		<recaudacion_mundial>2787965087</recaudacion_mundial>
+	</recaudaciones>	
+  </pelicula>
+  <pelicula id="2">
+    <titulo>Titanic</titulo>
+	<distribuidora>20th Century Fox/Paramount Pictures</distribuidora>
+	<any_estreno>1997</any_estreno>
+	<director>James Cameron</director>
+	<recaudaciones>
+		<presupuesto>200000000</presupuesto>
+		<taquilla_EEUU>659363944</taquilla_EEUU>
+		<taquilla_fuera_EEUU>1528100000</taquilla_fuera_EEUU>
+		<recaudacion_mundial>2187463944</recaudacion_mundial>
+	</recaudaciones>	
+  </pelicula>
+  <pelicula id="3" any="2015">
+    <titulo>Star Wars: Episodio VII - El despertar de la Fuerza</titulo>
+	<distribuidora>Walt Disney Pictures</distribuidora>
+	<any_estreno>2015</any_estreno>
+	<director>J.J Abrams</director>
+	<recaudaciones>
+		<presupuesto>245000000</presupuesto>
+		<taquilla_EEUU>936662225</taquilla_EEUU>
+		<taquilla_fuera_EEUU>1131561399</taquilla_fuera_EEUU>
+		<recaudacion_mundial>2068223624</recaudacion_mundial>
+	</recaudaciones>	
+  </pelicula>
+  <pelicula id="4" any="2018">
+    <titulo>Avengers: Infinity War</titulo>
+	<distribuidora>Marvel Studios/Walt Disney Pictures</distribuidora>
+	<any_estreno>2018</any_estreno>
+	<director>Anthony y Joe Russo</director>
+	<recaudaciones>
+		<presupuesto>400000000</presupuesto>
+		<taquilla_EEUU>678815482</taquilla_EEUU>
+		<taquilla_fuera_EEUU>1369895896</taquilla_fuera_EEUU>
+		<recaudacion_mundial>2048711378</recaudacion_mundial>
+	</recaudaciones>	
+  </pelicula>
+  <pelicula id="5">
+    <titulo>Jurassic World</titulo>
+	<distribuidora>Universal Pictures</distribuidora>
+	<any_estreno>2015</any_estreno>
+	<director>Colin Trevorrow</director>
+	<recaudaciones>
+		<presupuesto>150000000</presupuesto>
+		<taquilla_EEUU>652270625</taquilla_EEUU>
+		<taquilla_fuera_EEUU>1019442583</taquilla_fuera_EEUU>
+		<recaudacion_mundial>1671713208</recaudacion_mundial>
+	</recaudaciones>	
+  </pelicula>
+  <pelicula id="6">
+    <titulo>The Avengers</titulo>
+	<distribuidora>Marvel Studios/Walt Disney Pictures</distribuidora>
+	<any_estreno>2012</any_estreno>
+	<director>Joss Whedon</director>
+	<recaudaciones>
+		<presupuesto>220000000</presupuesto>
+		<taquilla_EEUU>623357910</taquilla_EEUU>
+		<taquilla_fuera_EEUU>895455078</taquilla_fuera_EEUU>
+		<recaudacion_mundial>1518812988</recaudacion_mundial>
+	</recaudaciones>	
+  </pelicula>
+  <pelicula id="7">
+    <titulo>Furious 7</titulo>
+	<distribuidora>Universal Studios</distribuidora>
+	<any_estreno>2015</any_estreno>
+	<director>James Wan</director>
+	<recaudaciones>
+		<presupuesto>190000000</presupuesto>
+		<taquilla_EEUU>353007020</taquilla_EEUU>
+		<taquilla_fuera_EEUU>1163038891</taquilla_fuera_EEUU>
+		<recaudacion_mundial>1516045911</recaudacion_mundial>
+	</recaudaciones>	
+  </pelicula>
+  <pelicula id="8">
+    <titulo>Avengers: Age of Ultron</titulo>
+	<distribuidora>Marvel Studios/Walt Disney Pictures</distribuidora>
+	<any_estreno>2015</any_estreno>
+	<director>Joss Whedon</director>
+	<recaudaciones>
+		<presupuesto>250000000</presupuesto>
+		<taquilla_EEUU>459005868</taquilla_EEUU>
+		<taquilla_fuera_EEUU>946497926</taquilla_fuera_EEUU>
+		<recaudacion_mundial>1405983798</recaudacion_mundial>
+	</recaudaciones>	
+  </pelicula>
+  <pelicula id="9">
+    <titulo>Black Panther</titulo>
+	<distribuidora>Marvel Studios/Walt Disney Pictures</distribuidora>
+	<any_estreno>2018</any_estreno>
+	<director>Ryan Coogler</director>
+	<recaudaciones>
+		<presupuesto>200000000</presupuesto>
+		<taquilla_EEUU>700059566</taquilla_EEUU>
+		<taquilla_fuera_EEUU>646853595</taquilla_fuera_EEUU>
+		<recaudacion_mundial>1346913161</recaudacion_mundial>
+	</recaudaciones>	
+  </pelicula>
+   <pelicula id="10">
+    <titulo>Harry Potter y las Reliquias de la Muerte: parte 2</titulo>
+	<distribuidora>Warner Bros</distribuidora>
+	<any_estreno>2011</any_estreno>
+	<director>David Yates</director>
+	<recaudaciones>
+		<presupuesto>250000000</presupuesto>
+		<taquilla_EEUU>381011219</taquilla_EEUU>
+		<taquilla_fuera_EEUU>960500000</taquilla_fuera_EEUU>
+		<recaudacion_mundial>1341511219</recaudacion_mundial>
+	</recaudaciones>	
+  </pelicula>
+  </recaudacion_peliculas>
+  
+  
